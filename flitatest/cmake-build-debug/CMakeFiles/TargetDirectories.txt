@@ -1,0 +1,3 @@
+C:/Users/tonya/Desktop/study/flitatest/cmake-build-debug/CMakeFiles/flitatest.dir
+C:/Users/tonya/Desktop/study/flitatest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tonya/Desktop/study/flitatest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
